@@ -1,5 +1,20 @@
 [
 	{
+		"date": "2026-08-20T17:30:00.000-04:00",
+		"location": "Tulip - 77 Middlesex Avenue, Suite A, Somerville",
+		"time": "5:30pm - 7:30pm",
+		"topics": [
+			{
+				"author": {
+					"name": "Yona Voss-Andreae",
+					"url": "https://github.com/yonava"
+				},
+				"title": "The TypeScript I Deleted"
+			},
+			{ "title": "More Talks TBA" }
+		]
+	},
+	{
 		"date": "2026-07-16T17:30:00.000-04:00",
 		"link": "https://www.eventbrite.com/e/boston-typescript-club-tickets-1992587070567",
 		"location": "Microsoft NERD Center",
